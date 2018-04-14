@@ -4,7 +4,7 @@ For my fourth Udacity project, I used machine learning to predict persons of int
 
 I worked within the poi_id.py file to complete the following project tasks:
 
-* Identify outliers in the financial data and explain how they are otherwise handled
+* Identify outliers in the financial data and explain how they are removed or otherwise handled
 * Implement at least one new feature and test its impact on the final algorithm
 * Attempt at least two different algorithms and compare their performance
 * Deploy GridSearchCV for parameter tuning
